@@ -1,0 +1,5 @@
+C:\Users\Sarah PC\source\repos\SmallDatabase\WinUI\obj\Debug\WinUI.csprojAssemblyReference.cache
+C:\Users\Sarah PC\source\repos\SmallDatabase\WinUI\obj\Debug\SmallDatabase.PeopleForm.resources
+C:\Users\Sarah PC\source\repos\SmallDatabase\WinUI\obj\Debug\WinUI.Properties.Resources.resources
+C:\Users\Sarah PC\source\repos\SmallDatabase\WinUI\obj\Debug\WinUI.csproj.GenerateResource.cache
+C:\Users\Sarah PC\source\repos\SmallDatabase\WinUI\obj\Debug\WinUI.csproj.CoreCompileInputs.cache

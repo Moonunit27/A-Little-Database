@@ -1,0 +1,10 @@
+C:\Users\Sarah PC\source\repos\SmallDatabase\SmallDatabase\obj\Debug\SmallDatabase.csprojAssemblyReference.cache
+C:\Users\Sarah PC\source\repos\SmallDatabase\SmallDatabase\obj\Debug\SmallDatabase.PeopleForm.resources
+C:\Users\Sarah PC\source\repos\SmallDatabase\SmallDatabase\obj\Debug\SmallDatabase.Properties.Resources.resources
+C:\Users\Sarah PC\source\repos\SmallDatabase\SmallDatabase\obj\Debug\SmallDatabase.csproj.GenerateResource.cache
+C:\Users\Sarah PC\source\repos\SmallDatabase\SmallDatabase\obj\Debug\SmallDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Sarah PC\source\repos\SmallDatabase\SmallDatabase\bin\Debug\SmallDatabase.exe.config
+C:\Users\Sarah PC\source\repos\SmallDatabase\SmallDatabase\bin\Debug\SmallDatabase.exe
+C:\Users\Sarah PC\source\repos\SmallDatabase\SmallDatabase\bin\Debug\SmallDatabase.pdb
+C:\Users\Sarah PC\source\repos\SmallDatabase\SmallDatabase\obj\Debug\SmallDatabase.exe
+C:\Users\Sarah PC\source\repos\SmallDatabase\SmallDatabase\obj\Debug\SmallDatabase.pdb
